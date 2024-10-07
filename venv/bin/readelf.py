@@ -1,4 +1,4 @@
-#!/home/seolcu/다운로드/92eeb8eb-83f5-43da-9557-12ba262327b2/venv/bin/python3
+#!/home/seolcu/문서/코드/dreamhack/venv/bin/python3
 #-------------------------------------------------------------------------------
 # scripts/readelf.py
 #

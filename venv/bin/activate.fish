@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/seolcu/다운로드/92eeb8eb-83f5-43da-9557-12ba262327b2/venv"
+set -gx VIRTUAL_ENV "/home/seolcu/문서/코드/dreamhack/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
